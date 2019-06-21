@@ -1,0 +1,95 @@
+/* Main elements of the page */
+body
+{
+    font-family: Arial, serif;
+	color: #191a17;
+	margin: 0;
+}
+
+a{
+	text-decoration: none;
+	color: #191a17;
+}
+
+a:visited{
+	color: #191a17;
+}
+
+/*Slide shows*/
+#slideshow1 { 
+    position: relative;  
+    height: 395px;  
+}
+
+#slideshow2 { 
+    position: relative;  
+    height: 455px;  
+}
+
+@media all and (max-width: 1024px)
+{
+    #slideshow1 { 
+		height: 320px;  
+	}
+	#slideshow2 {  
+		height: 375px;  
+	}
+}
+
+@media all and (max-width: 798px)
+{
+    #slideshow1 { 
+		height: 255px;  
+	}
+	#slideshow2 {  
+		height: 300px;  
+	}
+}
+
+@media all and (max-width: 560px)
+{
+	#slideshow1 { 
+		height: 190px;  
+	}
+	#slideshow2 {  
+		height: 210px;  
+	}
+}
+
+#slideshow1  div, #slideshow2 div { 
+    position: absolute; 
+    top: 1px; 
+}
+
+#slideshow1  img, #slideshow2 img{ 
+    width: 100%; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
