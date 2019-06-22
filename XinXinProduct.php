@@ -17,45 +17,45 @@
 		
 		<link href='http://fonts.googleapis.com/css?family=Playfair+Display:400,700italic,700,400italic' rel='stylesheet' type='text/css'>
         <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-		<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+		<link rel="shortcut icon" href="img1/favicon.ico" type="image/x-icon">
 		<!-- countdown.css ======================== -->
-        <link rel="stylesheet" href="css/jquery.countdown.css">
+        <link rel="stylesheet" href="css1/jquery.countdown.css">
 		<!-- Bootstrap CSS
 		============================================ -->
-        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css1/bootstrap.min.css">
 		<!-- Mobile Menu Slicknav CSS
 		============================================ -->
-        <link rel="stylesheet" href="css/slicknav.css">
+        <link rel="stylesheet" href="css1/slicknav.css">
 		<!-- Font-awesome CSS
 		============================================ -->
-        <link rel="stylesheet" href="css/font-awesome.min.css">
+        <link rel="stylesheet" href="css1/font-awesome.min.css">
 		<!-- rs-plugin CSS
 		============================================ -->			
-		<link href="lib/rs-plugin/css/settings.css" rel="stylesheet" />	
+		<link href="lib1/rs-plugin/css1/settings.css" rel="stylesheet" />	
 		
 		<!-- owl.carousel CSS
 		============================================ -->
-        <link rel="stylesheet" href="css/owl.carousel.css">
+        <link rel="stylesheet" href="css1/owl.carousel.css">
 		
 		<!-- FILTER_PRICE CSS
 		============================================ -->
-        <link rel="stylesheet" href="css/jquery-ui.min.css">
+        <link rel="stylesheet" href="css1/jquery-ui.min.css">
 		
 		<!-- normalize CSS
 		============================================ -->
-        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css1/normalize.css">
 		<!-- main CSS
 		============================================ -->
-        <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="css1/main.css">
 		<!-- Style CSS
 		============================================ -->
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="style1.css">
 		<!-- Responsive CSS
 		============================================ -->
-        <link rel="stylesheet" href="css/responsive.css">
+        <link rel="stylesheet" href="css1/responsive.css">
 		<!-- modernizr js
 		============================================ -->
-        <script src="js/vendor/modernizr-2.6.2.min.js"></script>
+        <script src="js1/vendor/modernizr-2.6.2.min.js"></script>
 		
     </head>
     <body class="category-gird home_2 list">
@@ -75,13 +75,13 @@
 							<nav>
 								<ul>
 									<!--ngôn ngữ-->
-									<li><a href="#"><img src="img/flag.png" alt="" /><span><i class="fa fa-angle-down"></i></span></a>
+									<li><a href="#"><img src="img1/flag.png" alt="" /><span><i class="fa fa-angle-down"></i></span></a>
 										<ul class="sup-menu">
-											<li><a href="#"><img src="img/country/it.gif" alt="" />italiano</a></li>
-											<li><a href="#"><img src="img/country/nl_nl.gif" alt="" />Nederlands</a></li>
-											<li><a href="#"><img src="img/country/de_de.gif" alt="" />Deutsch</a></li>
-											<li><a href="#"><img src="img/country/he_il.gif" alt="" /> עברית</a></li>
-											<li><a href="#"><img src="img/country/en.gif" alt="" />English</a></li>
+											<li><a href="#"><img src="img1/country/it.gif" alt="" />italiano</a></li>
+											<li><a href="#"><img src="img1/country/nl_nl.gif" alt="" />Nederlands</a></li>
+											<li><a href="#"><img src="img1/country/de_de.gif" alt="" />Deutsch</a></li>
+											<li><a href="#"><img src="img1/country/he_il.gif" alt="" /> עברית</a></li>
+											<li><a href="#"><img src="img1/country/en.gif" alt="" />English</a></li>
 										</ul>
 									</li>
 									<!--tiền tệ-->
@@ -142,7 +142,7 @@
 										<div class="mini-cart-content">
 											<div class="cart-img-details">											
 												<div class="cart-img-photo">
-													<a href="#"><img src="img/cart_list_prod.jpg" alt="" /></a>
+													<a href="#"><img src="img1/cart_list_prod.jpg" alt="" /></a>
 													<span class="quantity">1</span>
 												</div>
 												<div class="cart-img-contaent">
@@ -179,7 +179,7 @@
 									<!--LOGO AREA START-->
 									<!--logo xinxin được thêm vào chỗ này nè-->
 									<div class="logo">
-										<a href="index.php"><img src="img/logo1.png" alt="" /></a>
+										<a href="index.php"><img src="img1/logo1.png" alt="" /></a>
 									</div>
 									<!--LOGO AREA END-->
 								</div>
@@ -336,7 +336,7 @@
 												
 											</span>
 											<span>
-												<img src="img/anhr/mau1.jpg" alt="Mens" />
+												<img src="img1/anhr/mau1.jpg" alt="Mens" />
 											</span>
 										</div>
 									</li>
@@ -349,7 +349,7 @@
 												<a href="#">Accessories</a>
 											</span>
 											<span>
-												<img src="img/anhr/mau2.jpg" alt="Mens" />
+												<img src="img1/anhr/mau2.jpg" alt="Mens" />
 											</span>
 										</div>
 									</li>
@@ -362,7 +362,7 @@
 												<a href="#">Traveling</a>
 											</span>
 											<span>
-												<img src="img/anhr/mau3.jpg" alt="Mens" />
+												<img src="img1/anhr/mau3.jpg" alt="Mens" />
 											</span>
 										</div>
 									</li>
@@ -447,7 +447,7 @@
 								<!-- OFFER_AREA START 1-->
 								<div class="offer_area">
 									<div class="offer_img">
-										<img src="img/anhr/mau4.jpg" alt="Offer" />
+										<img src="img1/anhr/mau4.jpg" alt="Offer" />
 										<div class="offer-text">
 											<h2>Sale</h2>
 											<p>up to</p>
@@ -462,7 +462,7 @@
 								<!-- OFFER_AREA START 2-->
 								<div class="offer_area">
 									<div class="offer_img">
-										<img src="img/anhr/mau5.jpg" alt="Offer" />
+										<img src="img1/anhr/mau5.jpg" alt="Offer" />
 										<div class="offer-text">
 											<h2>Sale</h2>
 											<p>up to</p>
@@ -479,7 +479,7 @@
 								<!-- OFFER_AREA START 3-->
 								<div class="offer_area">
 									<div class="offer_img">
-										<img src="img/anhr/mau6.jpg" alt="Offer" />
+										<img src="img1/anhr/mau6.jpg" alt="Offer" />
 										<div class="offer-text">
 											<h2>Sale</h2>
 											<p>up to</p>
@@ -498,7 +498,7 @@
 					<div class="col-lg-9 col-md-9">
 						<!-- CATEGORY-BANNER START--><!-- ảnh bìa-->
 						<div class="category-banner">
-							<img src="img/shoes/banner.jpg" alt="banner"  />
+							<img src="img1/shoes1/banner.jpg" alt="banner"  />
 						</div>
 						<!-- CATEGORY-BANNER END-->
 						<!-- GIRD CATEGORY-FORM START-->
@@ -553,7 +553,7 @@
 							<!--CATEGORY PRODUCT CATEGORY_SINGLE_LIST START-->
 								<div class="category_single_list">
 								<div class="category_image">
-									<a href="product_details.html"><img src="img/shoes/adidas1.png" alt="" /></a>
+									<a href="product_details.html"><img src="img1/shoes1/adidas1.png" alt="" height="272" width="272"/></a>
 								</div>
 								<div class="category_text">
 									<div class="price_old_new">
@@ -591,7 +591,7 @@
 								<!--CATEGORY PRODUCT CATEGORY_SINGLE_LIST START-->
 								<div class="category_single_list">
 								<div class="category_image">
-									<a href="product_details.html"><img src="img/shoes/adidas2-1.png" alt="" /></a>
+									<a href="product_details.html"><img src="img1/shoes1/adidas2-1.png" alt="" /></a>
 								</div>
 								<div class="category_text">
 									<div class="price_old_new">
@@ -599,7 +599,7 @@
 										<p class="old_price"><del>$75.00</del></p>
 									</div>
 									<div class="category_prod_description">
-										<h3><a href="product_details.html">ADIDASFALCON W</a></h3>
+										<h3><a href="#">ADIDASFALCON W</a></h3>
 										<p>Adidas Falcon with a chunky shape and brilliant colors uses the innocent rebellious spirit seen in the 1990s as a design. This season, which will be a special model, was designed with a hint of the style of the 90's rave scene. In the upper of the mesh, overlay of metallic color fake leather is arranged.</p>
 									</div>
 									<div class="category_prod_card_area">
@@ -629,7 +629,7 @@
 								<!--CATEGORY PRODUCT CATEGORY_SINGLE_LIST START-->
 								<div class="category_single_list">
 								<div class="category_image">
-									<a href="product_details.html"><img src="img/shoes/adidas3.png" alt="" /></a>
+									<a href="product_details.html"><img src="img1/shoes1/adidas3.png" alt="" /></a>
 								</div>
 								<div class="category_text">
 									<div class="price_old_new">
@@ -637,7 +637,7 @@
 										<p class="old_price"><del>$72.00</del></p>
 									</div>
 									<div class="category_prod_description">
-										<h3><a href="product_details.html">RISINGSTARXR1</a></h3>
+										<h3><a href="#">RISINGSTARXR1</a></h3>
 										<p>Reprinted the design of the 80's. Suede and leather shoes got inspiration from NMD R1's unique midsole plug. This rising star was originally made with the intention of running on asphalt. A mechanism that allows the midsole plug to be removed so that the runner can adjust the cushioning level.</p>
 									</div>
 									<div class="category_prod_card_area">
@@ -667,7 +667,7 @@
 								<!--CATEGORY PRODUCT CATEGORY_SINGLE_LIST START-->
 								<div class="category_single_list">
 								<div class="category_image">
-									<a href="product_details.html"><img src="img/shoes/adidas4.png" alt="" /></a>
+									<a href="product_details.html"><img src="img1/shoes1/adidas4.png" alt="" /></a>
 								</div>
 								<div class="category_text">
 									<div class="price_old_new">
@@ -675,7 +675,7 @@
 										<p class="old_price"><del>$72.00</del></p>
 									</div>
 									<div class="category_prod_description">
-										<h3><a href="product_details.html">NMD_R1</a></h3>
+										<h3><a href="#">NMD_R1</a></h3>
 										<p>Street style and crystals of adidas technology. This shoe inspired by running shoes adopts the upper of the knit fabric that firmly wraps around the feet, and handles a number of NMD branding.</p>
 									</div>
 									<div class="category_prod_card_area">
@@ -705,7 +705,7 @@
 								<!--CATEGORY PRODUCT CATEGORY_SINGLE_LIST START-->
 								<div class="category_single_list">
 								<div class="category_image">
-									<a href="product_details.html"><img src="img/shoes/adidas5.png" alt="" /></a>
+									<a href="product_details.html"><img src="img1/shoes1/adidas5.png" alt="" /></a>
 								</div>
 								<div class="category_text">
 									<div class="price_old_new">
@@ -713,7 +713,7 @@
 										<p class="old_price"><del>$72.00</del></p>
 									</div>
 									<div class="category_prod_description">
-										<h3><a href="product_details.html">ZX930XEQT</a></h3>
+										<h3><a href="#">ZX930XEQT</a></h3>
 										<p>A pair that blended the two legendary Adidas shoes. Attractive design of heterogeneous mix by lightweight mesh and soft suede. In the design of the ZX 930 running shoes of the 1980 's, the 90' ​​s molded EQT mid sole is combined and elaborately upgraded.</p>
 									</div>
 									<div class="category_prod_card_area">
@@ -743,7 +743,7 @@
 								<!--CATEGORY PRODUCT CATEGORY_SINGLE_LIST START-->
 								<div class="category_single_list">
 								<div class="category_image">
-									<a href="product_details.html"><img src="img/shoes/adidas6.png" alt="" /></a>
+									<a href="#"><img src="img1/shoes1/adidas6.png" alt="" /></a>
 								</div>
 								<div class="category_text">
 									<div class="price_old_new">
@@ -751,7 +751,7 @@
 										<p class="old_price"><del>$72.00</del></p>
 									</div>
 									<div class="category_prod_description">
-										<h3><a href="product_details.html">SOLECOURT BOOST M MC</a></h3>
+										<h3><a href="#">SOLECOURT BOOST M MC</a></h3>
 										<p>With this shoes worn by professionals, win a victory. A lightweight upper wraps the legs exactly, giving an excellent fit, top-level tennis shoes. The TPU chassis contributes to the stability of the foot which influences the flow of the game, not to let the foot shake when hitting the shot.</p>
 									</div>
 									<div class="category_prod_card_area">
@@ -811,7 +811,7 @@
 							<div class="single-logo">
 								<a href="#">
 									<div class="logo-pic">
-										<img src="img/anhr/logobrand.jpg" alt="Logo" />
+										<img src="img1/anhr/logobrand.jpg" alt="Logo" />
 									</div>
 								</a>
 							</div>
@@ -820,7 +820,7 @@
 							<div class="single-logo">
 								<a href="#">
 									<div class="logo-pic">
-										<img src="img/anhr/logobrand.jpg" alt="Logo" />
+										<img src="img1/anhr/logobrand.jpg" alt="Logo" />
 									</div>
 								</a>
 							</div>
@@ -829,7 +829,7 @@
 							<div class="single-logo">
 								<a href="#">
 									<div class="logo-pic">
-										<img src="img/anhr/logobrand.jpg" alt="Logo" />
+										<img src="img1/anhr/logobrand.jpg" alt="Logo" />
 									</div>
 								</a>
 							</div>
@@ -838,7 +838,7 @@
 							<div class="single-logo">
 								<a href="#">
 									<div class="logo-pic">
-										<img src="img/anhr/logobrand.jpg" alt="Logo" />
+										<img src="img1/anhr/logobrand.jpg" alt="Logo" />
 									</div>
 								</a>
 							</div>
@@ -847,7 +847,7 @@
 							<div class="single-logo">
 								<a href="#">
 									<div class="logo-pic">
-										<img src="img/anhr/logobrand.jpg" alt="Logo" />
+										<img src="img1/anhr/logobrand.jpg" alt="Logo" />
 									</div>
 								</a>
 							</div>
@@ -856,7 +856,7 @@
 							<div class="single-logo">
 								<a href="#">
 									<div class="logo-pic">
-										<img src="img/anhr/logobrand.jpg" alt="Logo" />
+										<img src="img1/anhr/logobrand.jpg" alt="Logo" />
 									</div>
 								</a>
 							</div>
@@ -882,7 +882,7 @@
 								<div class="col-lg-3 col-md-3 col-sm-5">
 									<!-- FOOTER-LOGO START-->
 									<div class="footer-logo">
-										<a href="index.php"><img alt="" src="img/logo1.png"></a>
+										<a href="index.php"><img alt="" src="img1/logo1.png"></a>
 										<p>Come to XinXin's store you will have the best choice for me in terms of fashion. This store established by Mr. Toan ...  <a href="#">Readmore>></a></p>
 									</div>
 									<!-- FOOTER-LOGO END-->
@@ -1014,24 +1014,24 @@
 		<!-- COPY-RIGHT END-->
 		
 		<!-- jquery-1.11.3.min js -->
-        <script src="js/vendor/jquery-1.11.3.min.js"></script>
+        <script src="js1/vendor/jquery-1.11.3.min.js"></script>
 		<!-- bootstrap.min js -->
-        <script src="js/bootstrap.min.js"></script>
+        <script src="js1/bootstrap.min.js"></script>
 		<!-- FILTER_PRICE js -->
-        <script src="js/jquery-ui.min.js"></script>
+        <script src="js1/jquery-ui.min.js"></script>
 		<!-- owl.carousel.min js -->
-        <script src="js/owl.carousel.min.js"></script>
+        <script src="js1/owl.carousel.min.js"></script>
 		<!-- jquery.slicknav.min js -->
-        <script src="js/jquery.slicknav.min.js"></script>
+        <script src="js1/jquery.slicknav.min.js"></script>
 		<!-- plugins js -->
-        <script src="js/plugins.js"></script>
+        <script src="js1/plugins.js"></script>
 		<!-- jquery.scrollUp js -->
-        <script src="js/jquery.scrollUp.min.js"></script>
+        <script src="js1/jquery.scrollUp.min.js"></script>
 		<!-- Countdown JS-->
-		<script src="js/jquery.plugin.min.js"></script>
-		<script src="js/jquery.countdown.min.js"></script>
+		<script src="js1/jquery.plugin.min.js"></script>
+		<script src="js1/jquery.countdown.min.js"></script>
 		<!-- main JS -->
-		 <script src="js/main.js"></script>		 
+		 <script src="js1/main.js"></script>		 
 		 
     </body>
 
