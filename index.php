@@ -169,7 +169,7 @@
 					<div class="col-sm-12">
 						<div class="text-center buy-now">
 							<img src="img/arrow.png" alt=""/>
-							<a href="XinXinshop/XinXinProduct.php" class="btn btn-buy">SEE MORE AT</a>
+							<a href="XinXinProduct.php" class="btn btn-buy">SEE MORE AT</a>
 						</div>
 					</div>
 				</div>
