@@ -553,7 +553,7 @@
 							<!--CATEGORY PRODUCT CATEGORY_SINGLE_LIST START-->
 								<div class="category_single_list">
 								<div class="category_image">
-									<a href="product_details.html"><img src="img1/shoes1/adidas1.png" alt="" height="272" width="272"/></a>
+									<a href="product_details.html"><img src="img1/shoes2/adidas1.jpg" alt="" height="272" width="272"/></a>
 								</div>
 								<div class="category_text">
 									<div class="price_old_new">
@@ -591,7 +591,7 @@
 								<!--CATEGORY PRODUCT CATEGORY_SINGLE_LIST START-->
 								<div class="category_single_list">
 								<div class="category_image">
-									<a href="product_details.html"><img src="img1/shoes1/adidas2-1.png" alt="" /></a>
+									<a href="product_details.html"><img src="img1/shoes2/adidas2-1.jpg" alt="" /></a>
 								</div>
 								<div class="category_text">
 									<div class="price_old_new">
@@ -629,7 +629,7 @@
 								<!--CATEGORY PRODUCT CATEGORY_SINGLE_LIST START-->
 								<div class="category_single_list">
 								<div class="category_image">
-									<a href="product_details.html"><img src="img1/shoes1/adidas3.png" alt="" /></a>
+									<a href="product_details.html"><img src="img1/shoes2/adidas3.jpg" alt="" /></a>
 								</div>
 								<div class="category_text">
 									<div class="price_old_new">
@@ -667,7 +667,7 @@
 								<!--CATEGORY PRODUCT CATEGORY_SINGLE_LIST START-->
 								<div class="category_single_list">
 								<div class="category_image">
-									<a href="product_details.html"><img src="img1/shoes1/adidas4.png" alt="" /></a>
+									<a href="product_details.html"><img src="img1/shoes2/adidas4.jpg" alt="" /></a>
 								</div>
 								<div class="category_text">
 									<div class="price_old_new">
@@ -705,7 +705,7 @@
 								<!--CATEGORY PRODUCT CATEGORY_SINGLE_LIST START-->
 								<div class="category_single_list">
 								<div class="category_image">
-									<a href="product_details.html"><img src="img1/shoes1/adidas5.png" alt="" /></a>
+									<a href="product_details.html"><img src="img1/shoes2/adidas5.jpg" alt="" /></a>
 								</div>
 								<div class="category_text">
 									<div class="price_old_new">
@@ -743,7 +743,7 @@
 								<!--CATEGORY PRODUCT CATEGORY_SINGLE_LIST START-->
 								<div class="category_single_list">
 								<div class="category_image">
-									<a href="#"><img src="img1/shoes1/adidas6.png" alt="" /></a>
+									<a href="#"><img src="img1/shoes2/adidas6.jpg" alt="" /></a>
 								</div>
 								<div class="category_text">
 									<div class="price_old_new">
